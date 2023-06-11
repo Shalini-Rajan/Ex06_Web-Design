@@ -16,7 +16,6 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-...
 <html>
 <head>
 <title>JavaScript program to display result of a student</title>
@@ -63,7 +62,6 @@ Click me to Find Grade Result of a Student
 </h1>
 </body>
 </html>
-...
 ## OUTPUT
 ![WhatsApp Image 2023-06-03 at 7 22 28 PM](https://github.com/Shalini-Rajan/Ex06_Web-Design/assets/128398163/92b15c0a-6827-4d40-9c43-0c5abe789d43)
 
