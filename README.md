@@ -63,7 +63,8 @@ Click me to Find Grade Result of a Student
 </body>
 </html>
 ## OUTPUT
-![WhatsApp Image 2023-06-03 at 7 22 28 PM](https://github.com/Shalini-Rajan/Ex06_Web-Design/assets/128398163/92b15c0a-6827-4d40-9c43-0c5abe789d43)
+![WhatsApp Image 2023-06-03 at 7 22 28 PM (1)](https://github.com/Shalini-Rajan/Ex06_Web-Design/assets/128398163/f9bdf7d8-b249-4288-8fb6-6f1667b4c759)
+
 
 
 ## RESULT
