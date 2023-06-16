@@ -63,6 +63,7 @@ Click me to Find Grade Result of a Student
 </body>
 </html>
 ## OUTPUT
+
 ![calculator](https://github.com/Shalini-Rajan/Ex06_Web-Design/assets/128398163/725307b2-6056-4eef-888a-10803c004ae3)
 
 
